@@ -1,0 +1,3 @@
+﻿  TestTemplate.cpp
+E:\COP2272C-02\Template\TestTemplate.cpp(84): warning C4715: 'minV<int>': not all control paths return a value
+  Template.vcxproj -> E:\COP2272C-02\Template\Debug\Template.exe
