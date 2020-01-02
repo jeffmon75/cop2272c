@@ -1,0 +1,25 @@
+Constructor of Vehicle class.
+Constructor of InWater class.
+Constructor of Ship class.
+
+Constructor of Vehicle class.
+Constructor of InWater class.
+Constructor of Submarine class.
+
+Constructor of Vehicle class.
+Constructor of OnLand class.
+Constructor of Automobile class.
+Constructor of Sedan class.
+
+E:\COP2272C-02\OOP5\Debug\OOP5.exe (process 15276) exited with code 0.
+Press any key to close this window . . .
+
+How constructors are involved in inheritance?
+What is the execution timeline of related constructors in the class tree?
+
+Inhertiance is a feature of C++ where a class can inherit from more than one classes.
+The constructor of the base class is called first to initialize all the inherited members.
+The constructors of inherited classes are called in the same order in which they are inherited.  
+In our program Vehicle is called before InWater and Ship.
+Vehicle is also called before InWater and Submarine.
+Vehicle is finally called before OnLand, Automobile and Sedan.
