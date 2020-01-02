@@ -1,0 +1,3 @@
+﻿  Recursion1.cpp
+E:\COP2272C-02\Recursion1\Recursion1.cpp(37): warning C4715:  'myPrime': not all control paths return a value
+  Recursion1.vcxproj -> E:\COP2272C-02\Recursion1\Debug\Recursion1.exe

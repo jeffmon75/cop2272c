@@ -1,0 +1,4 @@
+﻿  rsa.cpp
+C:\Users\alien\Desktop\COP2272\RSA\rsa.cpp(27,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alien\Desktop\COP2272\RSA\rsa.cpp(27,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  RSA.vcxproj -> C:\Users\alien\Desktop\COP2272\RSA\Debug\RSA.exe
